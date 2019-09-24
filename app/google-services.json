@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682802588823",
+    "firebase_url": "https://egyptian-tour-guide-a001b.firebaseio.com",
+    "project_id": "egyptian-tour-guide-a001b",
+    "storage_bucket": "egyptian-tour-guide-a001b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682802588823:android:73a0ab3d076bafd70c0dd2",
+        "android_client_info": {
+          "package_name": "com.oraby.egyptiantourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682802588823-7nq4mc2uhi68jdap32cbolu378hkmhqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oraby.egyptiantourguide",
+            "certificate_hash": "d51de8ca9cb58efedee6e23e8a5f5de3b034a056"
+          }
+        },
+        {
+          "client_id": "682802588823-0fh7g1i65qn57gukv8fo5l0g24vs7p0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-SYyEofJmQMoRm8CUpxTobCjIfDWR0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682802588823-0fh7g1i65qn57gukv8fo5l0g24vs7p0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
