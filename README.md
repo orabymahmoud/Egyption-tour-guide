@@ -5,43 +5,39 @@ Egyptian hotels ,resturants ,artifacts all you want to know about Egypt is here
 ![Use Case](1.png)
 
 
-# Use Case View
+# Splash screen
 ![Use Case](11.png)
-# Use Case View
+# Create acount
 ![Use Case](12.png)
-# Use Case View
+# Log in
 ![Use Case](13.png)
-# Use Case View
+# Home
 ![Use Case](14.png)
-# Use Case View
+# Home 2
 ![Use Case](15.png)
-# Use Case View
+# Home 3
 ![Use Case](16.png)
-# Use Case View
+# Hotels
 ![Use Case](17.png)
-# Use Case View
+# Resturants
 ![Use Case](18.png)
-# Use Case View
+# Artifacts
 ![Use Case](19.png)
-# Use Case View
-![Use Case](20.png)
-# Use Case View
+# Profile
 ![Use Case](21.png)
-# Use Case View
+# Profile 1
 ![Use Case](22.png)
-# Use Case View
+# Edit Profile
 ![Use Case](23.png)
-# Use Case View
+# Artifact view (Pyramids)
 ![Use Case](24.png)
-# Use Case View
+# Hotel view
 ![Use Case](25.png)
-# Use Case View
-![Use Case](26.png)
-# Use Case View
+# Resturant view
 ![Use Case](27.png)
-# Use Case View
+# QR reader
 ![Use Case](28.png)
-# Use Case View
+# QR Reader after reading apyramid QR
 ![Use Case](29.png)
-# Use Case View
+# QR result
 ![Use Case](30.png)
