@@ -1,10 +1,6 @@
 # Egyption-tour-guide
 Egyptian hotels ,resturants ,artifacts all you want to know about Egypt is here
 
-# Use Case View
-![Use Case](1.png)
-
-
 # Splash screen
 ![Use Case](11.png)
 # Create acount
