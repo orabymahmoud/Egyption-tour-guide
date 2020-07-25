@@ -2,34 +2,24 @@
 Egyptian hotels ,resturants ,artifacts all you want to know about Egypt is here
 
 # Screens
-![Use Case](11.png) | ![Use Case](12.png)
-![Use Case](13.png)
-![Use Case](14.png)
-|
-![Use Case](15.png)
-|
-![Use Case](16.png)
-|
-![Use Case](17.png)
-|
-![Use Case](18.png)
-|
-![Use Case](19.png)
-|
-![Use Case](21.png)
-|
-![Use Case](22.png)
-|
-![Use Case](23.png)
-|
-![Use Case](24.png)
-|
-![Use Case](25.png)
-|
-![Use Case](27.png)
-|
-![Use Case](28.png)
-|
-![Use Case](29.png)
-|
-![Use Case](30.png)
+<img src="11.png" width="425"/> <img src="12.png" width="425"/> 
+
+<img src="13.png" width="425"/> <img src="14.png" width="425"/> 
+
+<img src="15.png" width="425"/> <img src="16.png" width="425"/>
+
+<img src="17.png" width="425"/> <img src="18.png" width="425"/> 
+
+<img src="19.png" width="425"/> <img src="20.png" width="425"/> 
+
+<img src="21.png" width="425"/> <img src="22.png" width="425"/> 
+
+<img src="23.png" width="425"/> <img src="24.png" width="425"/> 
+
+<img src="25.png" width="425"/> <img src="26.png" width="425"/> 
+
+<img src="27.png" width="425"/> <img src="28.png" width="425"/> 
+
+<img src="29.png" width="425"/> <img src="30.png" width="425"/> 
+
+
