@@ -2,7 +2,7 @@
 Egyptian hotels ,resturants ,artifacts all you want to know about Egypt is here
 
 # Screens
-<img src="11.png" width="50%"/> <img src="12.png" width="50%"/> 
+<img src="11.png" width="425"/> <img src="12.png" width="425"/> 
 
 <img src="13.png" width="425"/> <img src="14.png" width="425"/> 
 
