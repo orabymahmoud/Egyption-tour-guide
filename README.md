@@ -1,6 +1,9 @@
 # Egyption-tour-guide
 Egyptian hotels ,resturants ,artifacts all you want to know about Egypt is here
 
+# Video
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1fHWercqjfrqyRILYdV_JcSH7EsX85LVG/view)
+
 # Screens
 <img src="11.png" width="300"/> <img src="12.png" width="300"/> 
 
